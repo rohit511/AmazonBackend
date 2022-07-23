@@ -1,0 +1,83 @@
+.parent11{
+    height:900px;
+    width:100%;
+}
+
+.cart-container11{
+    background-color:lightblue;
+    height: 30%;
+    width: 70%;
+    margin-left: 10%;
+    margin-top: 50px;
+    padding: 2px;
+    box-sizing: border-box;
+    display: flex;
+}
+
+
+.product-detail11{
+    /* background-color: yellow; */
+    width: 10%;
+    height: 40%;
+    margin-left: 30px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+.quantity-container11{
+    background-color: yellow;
+    width: 15%;
+    height: 50%;
+    margin-left: 30px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+.quantity-container11>button{
+    height: 50px;
+    width: 50px;
+    font-size: large;
+}
+.delete11{
+    /* background-color: yellow; */
+    width: 15%;
+    height: 40%;
+    margin-left: 30px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.total11{
+    background-color: yellow;
+    width: 15%;
+    height: 40%;
+    margin-left: 30px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.delete11>button {
+    border: 1 px solid black;
+    border-radius: 4px;
+    font-weight: 600;
+    
+}
+.container11{
+    width: 20%;
+    height: 98%;
+}
+
+.container11>img{
+    width: 100%;
+    height: 100%;
+}

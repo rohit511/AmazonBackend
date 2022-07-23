@@ -1,0 +1,27 @@
+.Subheader{
+background-color:black;
+height:40px;
+display:flex;
+padding:3px ;
+box-sizing: border-box;
+
+
+
+
+
+
+}
+.Subheader div{
+margin-left: 20px;
+font-size:large;
+font-weight: 900;
+height:30px;
+width:130px;
+display:flex;
+justify-content: center;
+align-items: center;
+border-radius: 10px;
+border:1px solid white;
+color:white;
+
+}

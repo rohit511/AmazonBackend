@@ -1,0 +1,308 @@
+/* html,body{
+    height:100%;
+    width:100%;
+    margin:0;
+    padding:0;
+}
+*{
+    box-sizing: border-box;
+}
+.header{
+    height:100px;
+    width:100%;
+    background-color:black;
+    display:flex;
+}
+
+.img-container{
+    height:100%;
+    width:40%;
+    margin-left: 4px;
+    display:flex;
+    
+}
+.content-container{
+    height:100%;
+    width: 200px;;
+    color:white;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.hellow{
+    width:70px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.adress{
+    width:150px;
+    display:flex;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+}
+.search-parent{
+    height:100%;
+    width:800px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.search-parent input{
+    
+    height:75%;
+    width: 1200px;;
+    border-radius: 9px;
+} */
+html,body{
+    height:100%;
+    width:100%;
+    margin:0;
+    padding:0;
+}
+*{
+    box-sizing: border-box;
+}
+
+
+
+
+.header3{
+    height:100%;
+    width:100%;
+    background-color:red;
+}
+.header{
+    height:100px;
+    width:100%;
+    background-color:black;
+    display:flex;
+}
+
+.img-container {
+    height:80%;
+    width:120px;
+    margin-left: 8px;
+    margin-top: 10px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.img-container img {
+height:70%;
+width:79%;
+
+
+}
+.content-container{
+    height:100%;
+    width: 100px;
+    color:white;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+.hellow{
+    width:100px;
+    /* display:flex;
+    justify-content: center;
+    align-items: center; */
+}
+.adress{
+    width:100px;
+    display:flex;
+    font-weight: bold;
+    justify-content: flex-start;
+    align-items: center;
+}
+.search-parent{
+    height:100%;
+    width:1090px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.search-parent input{
+    
+    height:75%;
+    width: 1000px;
+    border-radius: 9px;
+}
+
+
+
+.text-container{
+    height:100%;
+    width: 150px;
+    color:white;
+    margin-left:9px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+.hi{
+    width:130px;
+    
+}
+
+.adr{
+    width:140px;
+    display:flex;
+    font-weight: bold;
+    justify-content: flex-start;
+    align-items: center;
+}
+.adr-container{
+
+    height:100%;
+    width: 150px;
+    color:white;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight:bold,
+    
+}
+.amz{
+    height:100%;
+    width: 100%;
+    color:white;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight:bold;
+
+
+}
+
+.text-container1{
+    height:100%;
+    width: 150px;;
+    color:white;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+.hi1{
+    width:130px;
+}
+
+.adr1{
+    width:140px;
+    display:flex;
+    font-weight: bold;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+
+
+
+
+.header1 {
+    height: 50px;
+    width: 100%;
+    /* background-color:black; */
+    /* color: white; */
+    display: flex;
+    background-color:black;
+
+}
+.cart-container99{
+    height: 100%;
+    width:100px;
+    display: flex;
+}
+.cart{
+    position:relative;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width:60px;
+    
+}
+
+.box{
+    position:absolute;
+    font-weight: bold;
+     color:red; 
+    width: 50px;
+    height:50px;
+    display: flex;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    top: 8px;
+    left:40px;
+    
+    
+    }
+    
+.rk{
+height:30px;
+width:40px;
+display:flex;
+justify-content: center;
+align-items: center;
+
+
+
+}
+.img-container14 {
+    height:80%;
+    width:140px;
+    margin-left: 8px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+
+
+}
+.img-container14 img {
+height:70%;
+width:79%;
+
+
+}
+.Subheaderi{
+    background-color:black;
+    height:40px;
+    display:flex;
+    padding:3px ;
+    box-sizing: border-box;
+    margin:35px;
+    
+    
+    
+    
+    
+    
+    }
+    .Subheaderi div{
+    margin-left: 20px;
+    font-size:large;
+    font-weight: 900;
+    height:30px;
+    width:130px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border:1px solid white;
+    color:white;
+    
+    }
+    
